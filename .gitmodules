@@ -1,0 +1,11 @@
+[submodule "uboot-imx"]
+	path = uboot-imx
+	url = git@github.com:zeha/uboot-imx
+	branch = icore6_v2013.04_3.10.17_1.0.0_ga
+[submodule "imx_usb_loader"]
+	path = imx_usb_loader
+	url = git@github.com:boundarydevices/imx_usb_loader.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:zeha/linux.git
+	branch = icore6_3.15
