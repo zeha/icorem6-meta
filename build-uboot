@@ -1,0 +1,6 @@
+#!/bin/bash
+. ./env
+export LDFLAGS=''  # uboot linking fails otherwise
+cd uboot-imx
+make mx6q_icore_config
+make

@@ -1,0 +1,2 @@
+source /opt/poky/1.6/environment-setup-cortexa9hf-vfp-neon-poky-linux-gnueabi
+export MAKEFLAGS=-j32
