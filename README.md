@@ -1,3 +1,9 @@
+ENGICAM i.Core M6 Board Support for Linux
+=========================================
+
+See https://github.com/engicam-stable/ for the official code.
+
+
 Building Linux
 --------------
 
