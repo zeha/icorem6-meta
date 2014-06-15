@@ -9,7 +9,7 @@ make imx6q-engicam.dtb
 Booting u-boot via USB
 ----------------------
 
-  * close JM32 on Board
+  * close JM2 on Board
   * `sudo ./imx_usb_loader/imx_usb uboot-imx/u-boot.imx`
 
 u-boot on SD
